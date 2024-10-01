@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FTStheThird
+- 👋 Hi, I’m @Trojka
 - 👀 I’m interested in data science and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
