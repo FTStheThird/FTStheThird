@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Trojka
-- 👀 I’m interested in data science and Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sw3301.3301ds@gmail.com
 
 <!---
